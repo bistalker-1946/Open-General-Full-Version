@@ -260,4 +260,4 @@ This repository serves as the official landing page for Open General. The softwa
 **Get the most recent version of Open General today!**
 
 ---
-**Last updated:** 2026-11-06 21:13:34 UTC
+**Last updated:** 2026-11-07 01:31:58 UTC
